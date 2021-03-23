@@ -1,0 +1,32 @@
+body {
+  background-image: url('https://feiraopassagensaereas.com.br/wp-content/uploads/2020/07/agencia-de-viagens-corporativas-tristar.jpg');
+  background-color: rgb(185, 241, 254); 
+  background-size: 100vh;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  text-align: center;
+  font-family: arial;
+}
+.page-subtitle{
+  color: rgb(95, 172, 14);
+}
+h1 {
+  color: rgb(224, 118, 118);
+  font-size: 40px;
+}
+.cacau, p{
+  color: rgba(87, 78, 216);
+  font-size: 20px;
+  line-height: 0;
+}
+section{
+  color: rgb(165, 46, 9);
+  font-size: 20px;
+  font-weight: bold;
+}
+#rodape, #fim{
+  font-weight: bold;
+  font-size: 20px;
+}
+
+
